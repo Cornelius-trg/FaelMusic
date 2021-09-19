@@ -1,36 +1,26 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5533766.gif" width="802" height="96" alt="King Userbot" /></a>
 
-**_Join [Channel Update](https://t.me/indoinfobot) untuk melihat info seputar bot_**
+**_Join [Channel Update](https://t.me/letsings) untuk mendengar nyanyian gw_**
 
-<p align="left">
-  <a href="https://github.com/Yunus-ZEND/VC-MusicINDO/fork">
-    <img src="https://img.shields.io/github/forks/Yunus-ZEND/VC-MusicINDO?label=Fork&style=social">
 
-![Repo Size](https://img.shields.io/github/repo-size/Yunus-ZEND/VC-MusicINDO?&style=plastic&logo=github)
-[![GitHub issues](https://img.shields.io/github/issues/Yunus-ZEND/VC-MusicINDO?&style=plastic&logo=github)](https://github.com/Yunus-ZEND/VC-MusicINDO/issues)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Yunus-ZEND/VC-MusicINDO?&style=plastic&logo=github)](https://github.com/Yunus-ZEND/VC-MusicINDO/graphs/commit-activity)
-[![GitHub contributors](https://img.shields.io/github/contributors/Yunus-ZEND/VC-MusicINDO?&style=plastic&logo=github)](https://github.com/Yunus-ZEND/VC-MusicINDO/graphs/contributors/)
-<p align="justify">
-<img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-New Version-yellow?style=for-the-badge&logo=appveyor"/>
-</p>
 
 #### NOTE: Tolong jangan di clone, capek editnya :") Kalo mau silahkan fork aja.
 
-![VC Music Logo](https://telegra.ph/file/d8e9534a07418917c04cd.jpg)
+![VC Music Logo](https://telegra.ph/file/0c6db366698dd6b570890.jpg)
 
 ### Group Support 🇮🇩
 `
-Klik tombol di bawah untuk join ke group support kami`
-   <a href="https://t.me/KingUserbotSupport"><img src="https://img.shields.io/badge/Grup%20Support%3F-Klik Disini-yellow?&style=flat-square?&logo=telegram" width=165px></a></p>
+Klik tombol di bawah untuk join ke group  kami`
+   <a href="https://t.me/wildentourageni"><img src="https://img.shields.io/badge/Grup%20Support%3F-Klik Disini-yellow?&style=flat-square?&logo=telegram" width=165px></a></p>
 
 ### String Session 🖇
 `
 Klik tombol Run on repl.it untuk membuat string milikmu, tolong pilih P yah jangan T`
    [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@apisuserbot/String-Session?v=1)
 
-### <p align="left">DEPLOY VC-MUSIKINDO ♫</p>
+### <p align="left">DEPLOY House Music ♫</p>
 `
-Klik tombol dibawah untuk deploy VC MusicINDO`
+Klik tombol dibawah untuk deploy House Music `
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yunus-ZEND/VC-MusicINDO)
 
