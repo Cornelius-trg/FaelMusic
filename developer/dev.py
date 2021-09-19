@@ -1,23 +1,20 @@
 DEV_LIST = [
-"1137888316",
-"1682708454",
+"1177830308",
 
 ]
 
 # This progam, the project music 
 # develoment project to id 
-# M
-# I
-# G
 # H
-# T 
-# Y 
+# O
+# U
+# S
+# E  
 #
-# P 
-# R 
-# O 
-# J 
-# E 
+#  
+# M 
+# U 
+# S 
+# I 
 # C 
-# T
-# Thank you for Apis and Yunus Zend
+# Thank you for Fael Wild
