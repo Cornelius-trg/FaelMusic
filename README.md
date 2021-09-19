@@ -22,7 +22,7 @@ Klik tombol Run on repl.it untuk membuat string milikmu, tolong pilih P yah jang
 `
 Klik tombol dibawah untuk deploy House Music `
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yunus-ZEND/VC-MusicINDO)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Cornelius-trg/FaelMusic)
 
 ![addphoto](https://telegra.ph/file/8218eb6dceae195b9fb6f.jpg)
 
